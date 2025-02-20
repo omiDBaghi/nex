@@ -13,5 +13,5 @@ setInterval(() => {
     } else {
         console.log("⚠️ Button not found!");
     }
-}, 3000);
+}, 10000);
 
