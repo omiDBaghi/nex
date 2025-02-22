@@ -1,6 +1,6 @@
 ```javascript
 setInterval(() => {
-    let button = document.querySelector("div.relative.w-24.h-16.rounded-full.cursor-pointer");
+    let button = document.querySelector("div.relative.w-24.h-16");
 
     if (button) {
         let text = button.innerText || button.textContent;
